@@ -39,7 +39,7 @@ I am a proactive learner and enjoy staying up to date with the latest trends and
 <p align="center"> 
 &emsp;
   <a href="https://cplusplus.com/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+     <img alt="C++" src="[https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/31b2ii8hchi31_ekSQPja.jpg)">
    </a>
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
