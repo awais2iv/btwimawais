@@ -59,36 +59,7 @@ I am a proactive learner and enjoy staying up to date with the latest trends and
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/react/" target="_blank">
-    <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </a> 
-	&emsp;
-  <a href="https://mui.com/" target="_blank">
-    <img alt="Material-UI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
-  </a>
-	&emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
-</p>
-
-### 👉 Backend Development
-<p align="center"> 
-  &emsp; 
-<a href="https://nodejs.org/en/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  </a>
-	&emsp; 
-<a href="https://nodejs.org/en/" target="_blank">
-    <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  </a>
-	&emsp; 
-<a href="https://nodejs.org/en/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
-	
-	
-</p>
+ </p>
 
 ## 📊 Github Stats
 
