@@ -5,9 +5,9 @@
 
 
 ## :sassy_man:  About me
-Hi there! 👋 My name is Abdullah, and I am a final-year computer science student at Air University, Islamabad. I have a passion for web development and have gained expertise in the MERN stack through my studies, developing projects, and internships. 
+Hi there! 👋 My name is Awais, and I am a computer science student at Air University, Islamabad. I have a passion for web development and Computer Programming.
 
-I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. My current focus is on emerging technologies such as Web 3.0 and blockchain development. I am currently developing my final year project using Blockchain and MERN stack.
+I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. My current focus is on emerging technologies.
 
 
 <br>
