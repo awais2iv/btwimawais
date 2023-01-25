@@ -26,12 +26,6 @@ I am a proactive learner and enjoy staying up to date with the latest trends and
 </p>
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia" alt="abdullahqaisar" /></p>
-
-<br>
-<br>
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
