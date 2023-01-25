@@ -38,7 +38,7 @@ I am a proactive learner and enjoy staying up to date with the latest trends and
 
 <p align="center"> 
 &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://cplusplus.com/" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
    <a href="https://www.python.org" target="_blank">
