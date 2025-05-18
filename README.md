@@ -92,8 +92,15 @@ Hi there! 👋 My name is **Muhammad Awais**, a passionate and curious **Compute
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=btwimawais&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=btwimawais&theme=github_dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=awais2iv&show_icons=true&theme=radical" alt="Awais' GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=awais2iv&theme=radical&hide_border=false" alt="Awais' GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais2iv&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
